@@ -93,13 +93,13 @@ Some file paths may need to be adjusted depending on whether the project is run 
 
 ## Limitations
 This project has several important limitations:
-    - The public dataset is synthetic and does not show real company performance.
-    - The original company data is confidential and is not included in this repository.
-    - Store names, values, and some fields were created for demonstration purposes.
-    - The analysis uses store-level aggregated data, not customer-level data.
-    - KPI relationships should be interpreted as associations, not causal relationships.
-    - Forecasting outputs are planning estimates and should not be treated as exact predictions.
-    - The Power BI dashboard may require path updates after downloading the repository.
+- The public dataset is synthetic and does not show real company performance.
+- The original company data is confidential and is not included in this repository.
+- Store names, values, and some fields were created for demonstration purposes.
+- The analysis uses store-level aggregated data, not customer-level data.
+- KPI relationships should be interpreted as associations, not causal relationships.
+- Forecasting outputs are planning estimates and should not be treated as exact predictions.
+- The Power BI dashboard may require path updates after downloading the repository.
 
 ---
 
