@@ -34,7 +34,7 @@ The early-warning examples are also demonstration outputs created to show how wa
 
 The project followed a step-by-step analytics workflow.
 
-![Project Workflow](docs/project_workflow_infographic.png)
+![Project Workflow](docs/project_workflow_diagram.png)
 
 Main workflow:
 
