@@ -90,11 +90,12 @@ The Power BI dashboard includes four main pages:
 2. Store Comparison
 3. Upselling & Efficiency
 4. Forecast & Early Warning
-
+   
+</br>
 Dashboard preview:
 ![Dashboard Preview](dashboard/dashboard_metro_by_tmobile.gif)
 
-
+</br>
 Dashboard screenshots:
 ![Overview_page](dashboard/screenshots/01_overview.png)
 
@@ -178,3 +179,7 @@ metro-tmobile-store-performance-analytics/
     ├── kpi_dictionary.md
     ├── project_workflow.md
     └── project_workflow_infographic.png
+```
+
+</br>
+<p align="center">----------------- THANK YOU -----------------</p>
