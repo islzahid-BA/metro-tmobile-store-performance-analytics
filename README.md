@@ -50,6 +50,59 @@ Main workflow:
 
 ---
 
+## Tools Used
+
+The following tools were used in this project:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- XGBoost
+- Prophet
+- Statsmodels
+- Power BI
+- Excel
+- GitHub
+- Notion for project planning
+
+---
+
+## How to Run This Project
+
+1. Clone the repository
+2. Open the project folder
+   cd metro-tmobile-store-performance-analytics
+3. Install the required Python libraries
+   pip install -r requirements.txt
+4. Run the notebooks in order
+   01_data_cleaning_and_eda.ipynb
+   02_kpi_framework_and_store_performance.ipynb
+   03_upselling_efficiency_and_segmentation.ipynb
+   04_forecasting_models.ipynb
+   05_dashboard_data_preparation.ipynb
+
+   The notebooks are located in the notebooks/ folder.
+5. Open the Power BI dashboard
+   dashboard/Metro_TMobile_Dashboard_Demo_Public.pbix
+
+Some file paths may need to be adjusted depending on whether the project is run locally, in Google Colab, or on another machine.
+
+---
+
+## Limitations
+This project has several important limitations:
+    - The public dataset is synthetic and does not show real company performance.
+    - The original company data is confidential and is not included in this repository.
+    - Store names, values, and some fields were created for demonstration purposes.
+    - The analysis uses store-level aggregated data, not customer-level data.
+    - KPI relationships should be interpreted as associations, not causal relationships.
+    - Forecasting outputs are planning estimates and should not be treated as exact predictions.
+    - The Power BI dashboard may require path updates after downloading the repository.
+
+---
+
 ## Repository Structure
 
 ```text
