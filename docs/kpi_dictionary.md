@@ -66,5 +66,3 @@ The following fields were added only for the public demo version. They are not p
 - Activity count fields show store activity volume, not revenue.
 - Financial fields represent dollar-based performance measures.
 - Efficiency fields compare performance relative to activity volume, device sales, or labor hours.
-- KPI relationships in this project should be interpreted as associations, not causal relationships.
-- The synthetic demo fields are included to make the public project more useful for demonstrating analysis, segmentation, and dashboarding.
