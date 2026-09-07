@@ -92,10 +92,12 @@ The Power BI dashboard includes four main pages:
 4. Forecast & Early Warning
    
 </br>
+
 Dashboard preview:
 ![Dashboard Preview](dashboard/dashboard_metro_by_tmobile.gif)
 
 </br>
+
 Dashboard screenshots:
 ![Overview_page](dashboard/screenshots/01_overview.png)
 
