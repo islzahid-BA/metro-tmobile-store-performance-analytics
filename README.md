@@ -36,17 +36,7 @@ The project followed a step-by-step analytics workflow.
 
 ![Project Workflow](docs/project_workflow_diagram.png)
 
-Main workflow:
 
-1. Project Planning & Scope  
-2. Data Quality Review  
-3. Exploratory Data Analysis  
-4. Store Performance Analysis  
-5. KPI Relationship Analysis  
-6. Forecasting Model  
-7. Early Warning Analysis  
-8. Visualization & Dashboard  
-9. Final Report & Recommendations  
 
 ---
 
@@ -66,6 +56,52 @@ The following tools were used in this project:
 - Excel
 - GitHub
 - Notion for project planning
+
+---
+
+## Project Management
+This project was organized using a structured roadmap with epics and tasks, including project planning and scope, data quality review, exploratory data analysis, store performance analysis, KPI relationship analysis, forecasting models, early warning analysis, and visualization and dashboard.
+
+The full project workflow and progress tracking are available in Notion:
+[View the Data Warehouse Project Roadmap](https://statuesque-roar-fd7.notion.site/Practicum-Project-T-Mobile-by-Metro-37c4b0ee654e8048bb8ed078967b1634?source=copy_link)
+
+---
+
+# 🗃️ Datasets
+This public version includes synthetic datasets only.
+
+
+File name: demo_daily_sales_messy.csv
+
+This file contains daily store-level demo data. It includes messy formatting similar to the actual data.
+
+File name: demo_monthly_kpi_messy.csv
+
+This file contains monthly store-level KPI data. It is used to support store comparison, KPI review, and dashboard preparation.
+
+File name: kpi_dictionary.csv
+
+This file explains the KPI abbreviations and metric names used in the project.
+
+A more readable version is also included in: docs/kpi_dictionary.md
+
+## Power BI Dashboard
+The Power BI dashboard includes four main pages:
+1. Overview
+2. Store Comparison
+3. Upselling & Efficiency
+4. Forecast & Early Warning
+
+Dashboard preview:
+![Overview_page](dashboard/screenshots/01_overview.png)
+
+![Overview_page](dashboard/screenshots/02_store_comparison.png)
+
+![Overview_page](dashboard/screenshots/03_upselling_efficiency.png)
+
+![Overview_page](dashboard/screenshots/04_forecast_early_warning.png)
+
+The Power BI dashboard file is included here: dashboard/Metro_TMobile_Dashboard_Demo_Public.pbix
 
 ---
 
