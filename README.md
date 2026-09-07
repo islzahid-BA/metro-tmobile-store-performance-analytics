@@ -8,15 +8,15 @@ The original practicum project used company-provided store performance data. Bec
 
 ## Project Purpose
 
-The main goal of this project was to turn store-level performance reports into a cleaner analytics process that can help answer questions such as:
+The main goal of this project was to turn store-level performance reports into a cleaner analytics process that can help answer business questions such as:
 
-- Which stores are performing strongly?
-- Which stores have high volume but lower efficiency?
-- How do activation, account gross, accessory profit, and productivity metrics vary by store?
-- What KPIs are associated with stronger performance?
-- Can we create a simple forecasting and early-warning process for store monitoring?
-- How can the results be shown in a dashboard for business users?
-
+- Which stores are leading the market, and which stores are falling behind?
+- Are low-performing stores struggling because of lower activity volume, weaker accessory performance, lower productivity, or a mix of several factors?
+- Which stores have strong sales volume but still show room for improvement in efficiency?
+- How do activation, account gross, accessory profit, and productivity metrics vary across stores and over time?
+- Which KPIs appear most closely associated with stronger store performance?
+- Are there early signs that a store’s performance is declining before it becomes a bigger issue?
+- How can store performance be summarized in a dashboard so managers can quickly identify where to focus?
 
 ---
 
@@ -35,7 +35,6 @@ The early-warning examples are also demonstration outputs created to show how wa
 The project followed a step-by-step analytics workflow.
 
 ![Project Workflow](docs/project_workflow_diagram.png)
-
 
 
 ---
@@ -93,6 +92,10 @@ The Power BI dashboard includes four main pages:
 4. Forecast & Early Warning
 
 Dashboard preview:
+![Dashboard Preview](dashboard/dashboard_metro_by_tmobile.gif)
+
+
+Dashboard screenshots:
 ![Overview_page](dashboard/screenshots/01_overview.png)
 
 ![Overview_page](dashboard/screenshots/02_store_comparison.png)
@@ -100,6 +103,7 @@ Dashboard preview:
 ![Overview_page](dashboard/screenshots/03_upselling_efficiency.png)
 
 ![Overview_page](dashboard/screenshots/04_forecast_early_warning.png)
+
 
 The Power BI dashboard file is included here: dashboard/Metro_TMobile_Dashboard_Demo_Public.pbix
 
