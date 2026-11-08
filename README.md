@@ -94,7 +94,7 @@ The Power BI dashboard includes four main pages:
 </br>
 
 Dashboard preview:
-![Dashboard Preview](dashboard/screenshots/01_overview.png)
+![Dashboard Preview](dashboard/dashboard_demo.gif)
 
 </br>
 
