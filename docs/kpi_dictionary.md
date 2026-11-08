@@ -1,6 +1,6 @@
 # KPI Dictionary
 
-This file explains the main KPI terms used in the Metro by T-Mobile store performance analytics demo project.
+This file explains the main KPI terms used in the retail store performance analytics demo project.
 
 The KPI definitions are written in simple business language so the notebooks, dashboard and analysis outputs are easier to understand.
 
