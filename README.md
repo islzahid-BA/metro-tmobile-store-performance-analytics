@@ -1,4 +1,4 @@
-# Metro by T-Mobile Store Performance Analytics
+# Retail Store Performance Analytics
 
 This repository contains a public demo version of my practicum project for a retail store performance analytics case focused on Metro by T-Mobile stores in the Tulsa market.
 
