@@ -1,6 +1,6 @@
 # Retail Store Performance Analytics
 
-This repository contains a public demo version of my practicum project for a retail store performance analytics case focused on Metro by T-Mobile stores in the Tulsa market.
+This repository contains a public demo version of my practicum project for a retail store performance analytics case focused on stores of a national wireless retailer in the Tulsa market.
 
 The original practicum project used company-provided store performance data. Because the original data is confidential, this public GitHub version uses synthetic demo data that follows a similar structure. The goal of this version is to show the full analytics workflow: data cleaning, KPI analysis, store comparison, forecasting, early warning logic, and Power BI dashboarding.
 
@@ -62,7 +62,7 @@ The following tools were used in this project:
 This project was organized using a structured roadmap with epics and tasks, including project planning and scope, data quality review, exploratory data analysis, store performance analysis, KPI relationship analysis, forecasting models, early warning analysis, and visualization and dashboard.
 
 The full project workflow and progress tracking are available in Notion:
-[View the Data Warehouse Project Roadmap](https://statuesque-roar-fd7.notion.site/Practicum-Project-T-Mobile-by-Metro-37c4b0ee654e8048bb8ed078967b1634?source=copy_link)
+[View the Project Roadmap](https://statuesque-roar-fd7.notion.site/Practicum-Project-T-Mobile-by-Metro-37c4b0ee654e8048bb8ed078967b1634?source=copy_link)
 
 ---
 
@@ -94,7 +94,7 @@ The Power BI dashboard includes four main pages:
 </br>
 
 Dashboard preview:
-![Dashboard Preview](dashboard/dashboard_metro_by_tmobile.gif)
+![Dashboard Preview](dashboard/screenshots/01_overview.png)
 
 </br>
 
@@ -108,7 +108,7 @@ Dashboard screenshots:
 ![Overview_page](dashboard/screenshots/04_forecast_early_warning.png)
 
 
-The Power BI dashboard file is included here: dashboard/Metro_TMobile_Dashboard_Demo_Public.pbix
+The Power BI dashboard file is included here: dashboard/Retail_Store_Dashboard_Demo_Public.pbix
 
 ---
 
@@ -116,7 +116,7 @@ The Power BI dashboard file is included here: dashboard/Metro_TMobile_Dashboard_
 
 1. Clone the repository
 2. Open the project folder
-   cd metro-tmobile-store-performance-analytics
+   cd retail-store-performance-analytics
 3. Install the required Python libraries
    pip install -r requirements.txt
 4. Run the notebooks in order
@@ -128,7 +128,7 @@ The Power BI dashboard file is included here: dashboard/Metro_TMobile_Dashboard_
 
    The notebooks are located in the notebooks/ folder.
 5. Open the Power BI dashboard
-   dashboard/Metro_TMobile_Dashboard_Demo_Public.pbix
+   dashboard/Retail_Store_Dashboard_Demo_Public.pbix
 
 Some file paths may need to be adjusted depending on whether the project is run locally, in Google Colab, or on another machine.
 
@@ -149,7 +149,7 @@ This project has several important limitations:
 ## Repository Structure
 
 ```text
-metro-tmobile-store-performance-analytics/
+retail-store-performance-analytics/
 │
 ├── README.md
 ├── requirements.txt
@@ -169,8 +169,7 @@ metro-tmobile-store-performance-analytics/
 │       └── kpi_dictionary.csv
 │
 ├── dashboard/
-│   ├── Metro_TMobile_Dashboard_Demo_Public.pbix
-│   ├── dashboard_metro_by_tmobile.gif
+│   ├── Retail_Store_Dashboard_Demo_Public.pbix
 │   └── screenshots/
 │       ├── 01_overview.png
 │       ├── 02_store_comparison.png
