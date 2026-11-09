@@ -1,8 +1,8 @@
 # Retail Store Performance Analytics
 
-This repository contains a public demo version of my practicum project for a retail store performance analytics case focused on stores of a national wireless retailer in the Tulsa market.
+This repository contains a public demo version of my practicum project with a telecom retail company that runs 10 stores in Tulsa. The company already had reporting, but the regional manager pointed out its gaps: store performance was hard to track over time, there was no forecasting or early warning, and the visuals did not make it clear where to act.
 
-The original practicum project used company-provided store performance data. Because the original data is confidential, this public GitHub version uses synthetic demo data that follows a similar structure. The goal of this version is to show the full analytics workflow: data cleaning, KPI analysis, store comparison, forecasting, early warning logic, and Power BI dashboarding.
+To keep the company’s data confidential, this version uses synthetic data with a similar structure, and the number of stores was changed to 20. It shows the full analytics workflow: data cleaning, KPI analysis, store comparison, forecasting, early warning logic, and Power BI dashboarding.
 
 ---
 
